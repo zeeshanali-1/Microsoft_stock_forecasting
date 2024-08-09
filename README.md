@@ -1,6 +1,7 @@
 Microsoft Stock Forecasting with LSTM
 
 Stock forecasting is a challenging task that involves forecasting future stock prices based on historical data. As, the future trends depend upon the past data, one effective approach that we are going to use is Long Short-Term Memory (LSTM) neural networks, a type of recurrent neural network (RNN) well-suited for time series data. LSTM models can capture long-term dependencies in stock prices, making them useful for predicting future trends.
+Here, we first try to predict the stocks of Microsoft, and we used their historical data. We used the data starting from 1st January 2000 till the current date which is 1st August 2024. 
 
 The process typically involves these steps:
 
